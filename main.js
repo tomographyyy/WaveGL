@@ -35,7 +35,7 @@ var angleY = -200.5;
 
 // Sphere physics info
 var useSpherePhysics = false;
-var useSphereAuto = false;
+var useSphereAuto = true;
 var center;
 var oldCenter;
 var velocity;
