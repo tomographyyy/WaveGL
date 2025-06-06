@@ -84,7 +84,7 @@ window.onload = function() {
   velocity = new GL.Vector();
   gravity = new GL.Vector(0, -4, 0);
   radius = 0.25;
-  water.SHALLOW = 0.0a;
+  water.SHALLOW = 0.0;
 
   //for (var i = 0; i < 10; i++) {
   //  water.addDrop(Math.random() * 2 - 1, Math.random() * 2 - 1, 0.03, (i & 1) ? 0.01 : -0.01);
